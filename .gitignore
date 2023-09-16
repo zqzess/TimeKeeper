@@ -1,0 +1,11 @@
+
+*.log
+*/log
+*.db
+timekeeper_server/source/*.db
+timekeeper_server/db/index2.js
+timekeeper_server/db/index3.js
+timekeeper_server/utils/schedule_old.js
+timekeeper_server/utils/schedule_cron.js
+timekeeper_server/utils/http.js
+timekeeper_server/test.js

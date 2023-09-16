@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.db
+source/*.db
+public
+
+# file
+db/index2.js
+db/index3.js
+utils/schedule_old.js
+utils/schedule_cron.js
+utils/http.js
+test.js
